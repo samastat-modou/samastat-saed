@@ -4,4 +4,4 @@ fpdf
 sqlalchemy
 streamlit-folium
 folium
-
+plotly
